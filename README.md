@@ -20,18 +20,17 @@ I currently work for Accenture as an Application Development Analyst and in my s
 #### Technologies
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  ---
-  <img align="center" alt="Mongo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="MSSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" title="NodeJS"      alt="NodeJS"      height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="TypeScript"  alt="TypeScript"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" title="JavaScript"  alt="JavaScript"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" title="Express"     alt="Express"     height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" title="Git "        alt="Git "        height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" title="Docker"      alt="Docker"      height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" title="Go"          alt="Go"          height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+  <img align="center" title="NestJS"      alt="NestJS"      height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" title="Mongo"       alt="Mongo"       height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" title="Oracle"      alt="Oracle"      height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" title="MSSQL"       alt="MSSQL"       height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 
 ---
