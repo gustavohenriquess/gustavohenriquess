@@ -11,7 +11,7 @@ I currently work for Accenture as an Application Development Analyst and in my s
 
 - 💬 If you need help, contact me, I will be happy to help you.
 - my business card [gustavohenriquess](https://www.gustavohenriques.com/card) with all my contacts
-- 🌱 I’m currently learning Microservices, improving my NodeJS, messaging architecture and hexagonal architecture.
+- 🌱 I’m currently learning Microservices architecture, improving my NodeJS, messaging architecture and hexagonal architecture.
 - ⚡ Fun fact: I love Music and i hava a 🐶🌭🐶 (dachshund)
 - 😄 Pronouns: he/him
 
