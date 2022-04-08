@@ -38,7 +38,7 @@ I currently work for Accenture as an Application Development Analyst and in my s
 
 <div align="center">
   <a href="https://github.com/gustavohenriquess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquess&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquess&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquess&langs_count=7&theme=github_dark&layout=compact"/>
 </div>
   
