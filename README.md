@@ -1,24 +1,24 @@
 ### Hiiii 👋, I'm Gustavo Henrique
 
 I'm a back end developer, passionate about developing, facing challenges and learning and sharing knowledge.
-My objective are make the difference and develop solutions with aggregate value! 
+My objective are make the difference and develop solutions with aggregate value!
 
 ## <img align="right" alt="GIF" src="./assets/gopher.gif" width="280" height="280" />
 
 I currently work for Accenture as an Application Development Analyst and in my spare time I study to be a better developer!
 
- 
-## 
+##
 
 - 💬 If you need help, contact me, I will be happy to help you.
 - my business card [gustavohenriquess](https://www.gustavohenriques.com/card) with all my contacts
-- 🌱 I’m currently learning Microservices, improving my NodeJS, messaging architecture and hexagonal architecture. 
+- 🌱 I’m currently learning Microservices, improving my NodeJS, messaging architecture and hexagonal architecture.
 - ⚡ Fun fact: I love Music and i hava a 🐶🌭🐶 (dachshund)
 - 😄 Pronouns: he/him
 
 ##
 
-#### Technologies 
+#### Technologies
+
 <div style="display: inline_block"><br>
   <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -41,10 +41,8 @@ I currently work for Accenture as an Application Development Analyst and in my s
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquess&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquess&langs_count=7&theme=github_dark&layout=compact"/>
 </div>
-  
-![Snake animation](https://github.com/gustavohenriquess/gustavohenriquess/blob/output/github-contribution-grid-snake.svg)  
-  
-  
+
+
 <!--
 **gustavohenriquess/gustavohenriquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
