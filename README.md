@@ -18,8 +18,9 @@ I currently work for Accenture as an Application Development Analyst and in my s
 ##
 
 ### My Projects
-[![Hermoor Logger](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=hermodr-logger)](https://github.com/gustavohenriquess/hermodr-logger)
+[![DDD](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=DDD)](https://github.com/gustavohenriquess/DDD)
 [![Hermoor](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=Hermoor)](https://github.com/gustavohenriquess/Hermoor)
+[![Hermoor Logger](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=hermodr-logger)](https://github.com/gustavohenriquess/hermodr-logger)
 
 
 ##
