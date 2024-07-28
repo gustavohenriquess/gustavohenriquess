@@ -20,8 +20,9 @@ I currently work for Accenture as an Application Development Analyst and in my s
 ### My Projects
 
 [![Talks](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=talks)](https://github.com/gustavohenriquess/talks)
-[![Go Intensive](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=goIntensive23)](https://github.com/gustavohenriquess/goIntensive23)
+[![Solid Challenge](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=solid-challenge)](https://github.com/gustavohenriquess/solid-challenge)
 [![DDD](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=DDD)](https://github.com/gustavohenriquess/DDD)
+[![Go Intensive](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=goIntensive23)](https://github.com/gustavohenriquess/goIntensive23)
 <!-- [![Hermoor](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=Hermoor)](https://github.com/gustavohenriquess/Hermoor) -->
 <!-- [![Hermoor Logger](https://github-readme-stats.vercel.app/api/pin/?username=gustavohenriquess&theme=github_dark&repo=hermodr-logger)](https://github.com/gustavohenriquess/hermodr-logger) -->
 
